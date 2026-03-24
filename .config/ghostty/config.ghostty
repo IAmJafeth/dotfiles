@@ -1,0 +1,47 @@
+# macOS config file:
+# ~/Library/Application Support/com.mitchellh.ghostty/config.ghostty
+# or:
+# ~/.config/ghostty/config.ghostty
+
+##########
+# THEME
+##########
+theme = light: Aizen Light,dark: Aizen Dark
+macos-option-as-alt = true
+
+##########
+# MODERN GLASS LOOK
+##########
+background-opacity = 0.90
+background-blur = true
+
+##########
+# TYPOGRAPHY
+##########
+font-family = JetBrainsMono Nerd Font
+font-size = 15
+
+##########
+# CLEAN SPACING
+##########
+window-padding-x = 14
+window-padding-y = 14
+
+##########
+# CURSOR
+##########
+cursor-style = block
+cursor-style-blink = false
+
+##########
+# QUALITY OF LIFE
+##########
+copy-on-select = true
+shell-integration = detect
+bell-features = border
+scrollback-limit = 2000000
+
+##########
+# OPTIONAL
+##########
+scrollbar = system
