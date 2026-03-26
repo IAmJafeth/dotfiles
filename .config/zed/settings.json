@@ -77,10 +77,6 @@
     "dock": "right",
   },
 
-  "chat_panel": {
-    "dock": "left",
-  },
-
   "outline_panel": {
     "dock": "right",
   },
@@ -104,7 +100,7 @@
   "languages": {
     "LOG": {
       "soft_wrap": "bounded",
-      "preferred_line_length": 200,
+      "preferred_line_length": 250,
     },
   },
 }
