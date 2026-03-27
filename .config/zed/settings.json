@@ -43,9 +43,9 @@
   },
   "colorize_brackets": true,
   "edit_predictions": {
-    "provider": "copilot",
+    "provider": "none",
   },
-  "disable_ai": false,
+  "disable_ai": true,
 
   "project_panel": {
     "dock": "right",
